@@ -1,2 +1,2 @@
-Beispieldatei 1
-Hallo Welt.
+Beispiel 2
+echo "Hallo Welt."
